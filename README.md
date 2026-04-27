@@ -13,19 +13,19 @@
 - Tutoriel : Ubuntu  
 - Tutoriel : LAN & équipements
 -  Flyer (Communication)
+- Tutoriel : Adressage IP
 
 ---
 
 ## 🟡 Tâches en cours
 
-- Tutoriel : Adressage IP  
+- Lab : Installation et Utilisation d'Ubuntu Linux
 
 ---
 
 ## 🚀 Étapes suivantes
 
 - Organisation : Inscription des apprenants (À faire)  
-- Lab : Installation et Utilisation d'Ubuntu Linux (À faire)  
 - Lab : Configuration LAN et Interconnexion Réseau (À faire)  
 - Lab : Déploiement Laravel (À faire)  
 - Atelier : Installation Linux (À faire)  
